@@ -2,4 +2,4 @@
 
 View our Tableau Dashabord here: https://public.tableau.com/app/profile/group.c3.ds.2025.3.1/viz/CAPSTONEPROJECT_17538015048050/Dashboard1
 
-[![Dashboard Preview](images/Dashboard.png)](https://public.tableau.com/app/profile/group.c3.ds.2025.3.1/viz/CAPSTONEPROJECT_17538015048050/Dashboard1)
+[![Dashboard Preview](images/Dashboard.png)]
